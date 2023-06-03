@@ -2,8 +2,8 @@
 
 - train
 
-python main.py
+python train.py
 
 - inference
 
-python ensemble.py
+python test.py
