@@ -2,13 +2,13 @@
 
 Final test accuracy = 97.64%
 
-train
+- train
 
 ```
 python train.py
 ```
 
-inference
+- inference
 
 ```
 python test.py
