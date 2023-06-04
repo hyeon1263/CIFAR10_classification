@@ -1,5 +1,7 @@
 # CIFAR10_classification
 
+Final test accuracy = 97.64%
+
 train
 
 ```
