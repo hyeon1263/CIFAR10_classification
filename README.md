@@ -1,9 +1,13 @@
 # CIFAR10_classification
 
-- train
+train
 
+```
 python train.py
+```
 
-- inference
+inference
 
+```
 python test.py
+```
